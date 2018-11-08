@@ -18,6 +18,14 @@ the game mastermind has the following rules:
 6. a score of 4 4 means the user got the code right and should win.
 7. the game keeps track of old guesses and informs the user of a repeat guess.
 
+Rules
+
+1. do not go back to prior branches or commits.
+2. do not submit any pull requests to the repo.
+3. do not look at any forks of the problem.
+4. recommendation is to download the repo as a zip file and create a fresh repo from the contents. this prevents a link between the two and ensures green squares on github.
+5. DO NOT open any of the testX.cs files until you are ready for the next test (current test passes and the refactor and retrospective phases are done)
+
 instructions to complete the practice:
 
 1. To complete the challenge pick one partner (CoderA) to start the first test which is given as a guidline.
